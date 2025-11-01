@@ -1,1 +1,11 @@
-
+{
+  "name": "NoorLingua",
+  "symbol": "NLG",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "NoorLingua: Unlocking English Fluency is an innovative AI-powered platform that integrates interactive videos to help learners master English in a meaningful way.",
+  "website": "https://noorlingua.com",
+  "explorer": "https://bscscan.com/token/0xb9689D4b3483fBC24809687aa4b245EBC6fb29aE",
+  "status": "active",
+  "id": "0xb9689D4b3483fBC24809687aa4b245EBC6fb29aE"
+}
